@@ -75,7 +75,6 @@ Maintained and enhanced by [awaisdev5765](https://github.com/awaisdev5765).
 
 Original learning resources:
 
-* [Stewart Lynch](https://www.createchsol.com/Wordle)
 * [SwiftUI: Shake Animation](https://www.objc.io/blog/2019/10/01/swiftui-shake-animation/)
 * [SwiftUI Card Flip Animation - Samuel Do](https://github.com/SamuelDo02/swiftuitutorials/blob/main/Flashcard.swift)
 * [THE DICTIONARY MASTER](https://www.angelfire.com/extreme4/safer_sephiroth/EVERY_WORD_EVER.htm)
@@ -84,7 +83,6 @@ Original learning resources:
 ## License
 
 ```
-Copyright 2022 Shameem Reza
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
