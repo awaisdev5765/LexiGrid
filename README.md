@@ -57,6 +57,18 @@ LexiGrid is a polished five-letter word puzzle for iPhone and iPad, built with S
 The shipping app name is **LexiGrid** and the bundle identifier is `com.awaisdev5765.lexigrid`.
 
 
+## ☕ Support
+
+If this project helps you, please consider supporting my work:
+
+<p align="center">
+  <a href="https://buymeacoffee.com/awaisdev572">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=%E2%98%95&slug=awaisdev572&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee">
+  </a>
+</p>
+
+Or [become a supporter on Buy Me a Coffee](https://buymeacoffee.com/awaisdev572) 💛
+
 ## Credits
 
 Maintained and enhanced by [awaisdev5765](https://github.com/awaisdev5765).
